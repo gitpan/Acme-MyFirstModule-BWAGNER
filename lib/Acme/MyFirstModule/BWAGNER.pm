@@ -10,11 +10,11 @@ Acme::MyFirstModule::BWAGNER - The great new Acme::MyFirstModule::BWAGNER!
 
 =head1 VERSION
 
-Version 0.01
+Version 0.03
 
 =cut
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 
 =head1 SYNOPSIS
@@ -39,7 +39,7 @@ if you don't export anything, such as for a purely object-oriented module.
 
 =cut
 
-subfunction1 {
+sub function1 {
 }
 
 =head2 function2
