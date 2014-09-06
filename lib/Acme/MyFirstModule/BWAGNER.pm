@@ -14,7 +14,7 @@ Version 0.01
 
 =cut
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 
 =head1 SYNOPSIS
@@ -39,7 +39,7 @@ if you don't export anything, such as for a purely object-oriented module.
 
 =cut
 
-sub function1 {
+subfunction1 {
 }
 
 =head2 function2
